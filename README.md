@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @DA0Master
 - 👀 I’m interested in DAO, DeFi, Crypto
 - 🌱 I’m currently learning decentralized finance
-- 💞️ I’m looking to collaborate on $ICE
+- 💞️ I’m looking to collaborate on CRONOS
 - 📫 How to reach me "find it out"
 
 <!---
